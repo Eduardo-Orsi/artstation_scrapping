@@ -5,3 +5,5 @@ venv
 DB/
 logs/
 .DS_Store
+*.venv
+*.db
