@@ -6,3 +6,4 @@ logs/
 .DS_Store
 *.venv
 *.db
+pyrightconfig.json
